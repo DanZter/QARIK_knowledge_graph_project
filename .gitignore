@@ -149,3 +149,5 @@ _ReSharper.*
 bin
 obj
 packages
+
+.exe
